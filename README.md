@@ -1,8 +1,24 @@
-## Hi there 👋
+# Hi, I'm Marcus 👋
 
-- 🔭 I’m currently working on beginner Python and SQL projects
-- 🌱 I’m currently learning Python, SQL, and knowing my way around database connection packages
-- 🤔 I’m looking for help with any tips/ ideas to get more involved in different projects
-- 📫 How to reach me: School email: andriamr@dukes.jmu.edu Personal email: marcusriddickandriano@gmail.com
-- ⚡ Fun fact: I am a diehard Manchester City fan and love to watch Marvel Movies 
+I am an undergraduate student at James Madison University, majoring in Statistics with a data science concentration.
+
+## What I am working on
+
+<!-- LIST:START -->
+| Date | Post |
+| --- | --- |
+| Mar 2026 |  |
+| Apr 2026 |  |
+| May 2026 |  |
+| Jun 2026 | |
+| Jul 2026 |  |
+| Aug 2026 |  |
+| Sep 2026 |  |
+| Oct 2026 |  |
+| Nov 2026 |  |
+| Dec 2026 | |
+<!-- LIST:END -->
+
+
+
 
