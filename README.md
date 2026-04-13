@@ -7,8 +7,7 @@ I am an undergraduate student at James Madison University, majoring in Statistic
 <!-- LIST:START -->
 | Date | Post |
 | --- | --- |
-| Mar 2026 |  |
-| Apr 2026 |  |
+| Apr 2026 | Python Beginner Projects |
 | May 2026 |  |
 | Jun 2026 | |
 | Jul 2026 |  |
