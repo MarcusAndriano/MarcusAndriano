@@ -12,10 +12,10 @@ I am an undergraduate student at James Madison University, majoring in Statistic
 | Jun 2026 | |
 | Jul 2026 |  |
 | Aug 2026 |  |
-| Sep 2026 |  | Manchester City Data Science Project |
-| Oct 2026 |  | Manchester City Data Science Project |
-| Nov 2026 |  | Manchester City Data Science Project |
-| Dec 2026 | | Manchester City Data Science Project |
+| Sep 2026 |  Manchester City Data Science Project |
+| Oct 2026 |   Manchester City Data Science Project |
+| Nov 2026 |  Manchester City Data Science Project |
+| Dec 2026 | Manchester City Data Science Project |
 <!-- LIST:END -->
 
 
