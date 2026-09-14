@@ -7,7 +7,7 @@ I am an undergraduate student at James Madison University, majoring in Statistic
 <!-- LIST:START -->
 | Date | Post |
 | --- | --- |
-| Apr 2026 | Python Beginner Projects |
+| Apr 2026 | [**Python Beginner Projects**] (https://github.com/MarcusAndriano/PythonBeginnerProjects)|
 | May 2026 |  | 
 | Jun 2026 | |
 | Jul 2026 |  |
